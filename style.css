@@ -114,11 +114,11 @@ header nav a{
 
 .menu{
     margin: 20px;
-    left: 1.6;
+   
     padding: 20px;
     display: grid;
     justify-content: center;
-    gap: 12px;
+    gap: 100px;
     grid-template-columns: repeat(2, 1fr);
 }
 
